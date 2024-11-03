@@ -21,7 +21,7 @@
 <br/>
 
 ## My Skill Set  
-<table style="background-color: white;><tr><td valign="top" width="33% ">
+<table style="background-color: white;"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -36,6 +36,7 @@
 </a>
 </div>
 </td><td valign="top" width="33%">
+
 
 ### Backend  
 <div align="center">  
