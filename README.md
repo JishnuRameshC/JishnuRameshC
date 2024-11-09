@@ -1,4 +1,4 @@
-### <div align="center"> 👋 Hi, I'm Jishnu Ramesh C</div>  
+### <div align="center"> 👋 Hi, I'm Jishnu </div>  
 
 ## About Me
 - 🔭 I'm currently working on Python Backend Development
